@@ -1,0 +1,46 @@
+body {
+	/*background-color: black;*/
+	background-image: url(C:/Users/user/Desktop/bot.py/fonbody.jpg);
+}
+
+p {
+	color: white;
+	margin-left: 0px;
+	margin-top: 100px;
+	font-size: 120px;
+}
+
+input{
+	background-color:black;
+	border: 5px groove silver;
+	color:white;
+	border-radius: 2px;
+}
+
+button{
+	color:white;
+	background-color:silver;
+	border: 3px double black;
+	border-radius: 4px;
+	width: 100px;
+	height: 100px;
+}
+
+#fir1, #fir2, #fir3, #fir4, #fir5, #fir6, #fir7, #fir8, #fir9 {
+	background-image: url(C:/Users/user/Desktop/bot.py/fonbutton.jpg);
+	width: 500px;
+	height: 500px;
+	border: 15px double black;
+	border: 25px groove silver;
+	font-size: 2150%;
+	text-align: center;
+	border-spacing: 5px 5px;
+	margin: 100px;
+}
+
+.a {
+	margin: 500px;
+	margin-left: 350px;
+	margin-top: 400px;
+	color: white;
+}
